@@ -34,5 +34,6 @@ class GFTextField: UITextField {
         backgroundColor           = .tertiarySystemBackground
         autocorrectionType        = .no
         placeholder               = "Enter a username"
+
     }
 }
